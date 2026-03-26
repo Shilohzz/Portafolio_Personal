@@ -62,9 +62,10 @@ img { display: block; max-width: 100%; }
   border-radius: 50%;
   pointer-events: none;
   z-index: 9999;
-  transform: translate(-50%, -50%);
   box-shadow: 0 0 10px var(--accent);
-  transition: transform 0.1s ease, width 0.2s ease, height 0.2s ease;
+  transition: width 0.2s ease, height 0.2s ease;
+  transform: translate(-50%, -50%);
+  will-change: left, top;
 }
 .cursor-trail {
   position: fixed;
@@ -75,7 +76,7 @@ img { display: block; max-width: 100%; }
   pointer-events: none;
   z-index: 9998;
   transform: translate(-50%, -50%);
-  transition: all 0.08s linear;
+  will-change: left, top;
 }
 body:has(a:hover) .cursor,
 body:has(button:hover) .cursor {

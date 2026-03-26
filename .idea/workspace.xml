@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e1e66db-64c6-4729-a4f2-6aa1924b4cfb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/SVG/javascript-svgrepo-com.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SVG/python-svgrepo-com.svg" beforeDir="false" />
+    <list default="true" id="0e1e66db-64c6-4729-a4f2-6aa1924b4cfb" name="Changes" comment="&quot;Update my portfolio.&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shilohzz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shilohzz/Portafolio_Personal.git&quot;,
+    &quot;accountId&quot;: &quot;4fe69083-7d1f-47e3-90fe-e28e1e301e16&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -66,6 +81,27 @@
       <option name="presentableId" value="Default" />
       <updated>1774388547446</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Update my portfolio.&quot;">
+      <option name="closed" value="true" />
+      <created>1774388814816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774388814816</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Update my portfolio.&quot;">
+      <option name="closed" value="true" />
+      <created>1774388893216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1774388893216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Update my portfolio.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Update my portfolio.&quot;" />
   </component>
 </project>
